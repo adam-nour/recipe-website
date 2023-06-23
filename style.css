@@ -1,0 +1,17 @@
+
+*{
+    background-color: aquamarine;
+}
+.listrecipes {
+    font-weight: 600;
+    font-size: x-large;
+    
+}
+
+h1 {
+    font-weight: 100;
+}
+img {
+    height: 300px;
+    width: 300px;
+}
